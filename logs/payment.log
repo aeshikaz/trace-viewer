@@ -1,0 +1,12 @@
+{"trace_id":"7dc6ef45","service":"payment","event":"started","timestamp":1783028083153}
+{"trace_id":"7dc6ef45","service":"payment","event":"finished","timestamp":1783028086165,"duration_ms":3000}
+{"trace_id":"1f4bc2ef","service":"payment","event":"started","timestamp":1783028444740}
+{"trace_id":"1f4bc2ef","service":"payment","event":"finished","timestamp":1783028447745,"duration_ms":3000}
+{"trace_id":"311b3e95","service":"payment","event":"started","timestamp":1783029469025}
+{"trace_id":"311b3e95","service":"payment","event":"finished","timestamp":1783029472764,"duration_ms":3732}
+{"trace_id":"6a09cc43","service":"payment","event":"started","timestamp":1783029541348}
+{"trace_id":"6a09cc43","service":"payment","event":"finished","timestamp":1783029544430,"duration_ms":3081}
+{"trace_id":"78e56cc9","service":"payment","event":"started","timestamp":1783029559454}
+{"trace_id":"78e56cc9","service":"payment","event":"finished","timestamp":1783029561650,"duration_ms":2196}
+{"trace_id":"f7d3167b","service":"payment","event":"started","timestamp":1783029859879}
+{"trace_id":"f7d3167b","service":"payment","event":"finished","timestamp":1783029862200,"duration_ms":2320}
